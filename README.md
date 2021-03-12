@@ -1,21 +1,16 @@
-# Pure React and Electron boilerplate with ipcRenderer integrated
+# Pure React and Electron boilerplate
 
 This is react and electron secured boilerplate created with create-react-app and imtegrated electron in it with the ipcRenderer functionality
 
-
-To use this boilerplate follow these intruction 
+To use this boilerplate follow these intruction
 
 1.git clone https://github.com/Waseem6409/Pure-React-Electron-Boilerplate<br/>
-2.cd Pure-React-Electron-Boilerplate<br/>
-3. use npm  ```npm install``` or yarn ```yarn``` to install the required dependencies<br/>
-
-
+2.cd Pure-React-Electron-Boilerplate<br/> 3. use npm `npm install` or yarn `yarn` to install the required dependencies<br/>
 
 ### `Yarn start` or `npm start`
 
 Runs the app in the development mode.\
 Window will open or go to [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 
 ### `Yarn build` or `npm run build`
 

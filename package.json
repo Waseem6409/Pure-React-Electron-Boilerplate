@@ -1,7 +1,6 @@
 {
-  "name": "react-electron-boilerplate",
+  "name": "pure-react-electron-boilerplate",
   "version": "0.1.0",
-  "private": true,
   "description": "<your project description>",
   "author": {
     "name": "Waseem Munir",
