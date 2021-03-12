@@ -1,7 +1,8 @@
 {
   "name": "pure-react-electron-boilerplate",
   "version": "0.1.0",
-  "description": "<your project description>",
+  "description": "pure react and electron boilerplate  for making desktop applications",
+  "private": "true",
   "author": {
     "name": "Waseem Munir",
     "email": "waseem6409@gmail.com",
